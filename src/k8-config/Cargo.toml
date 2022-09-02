@@ -21,7 +21,7 @@ hostfile = "0.2.0"
 thiserror = "1.0.20"
 
 [dev-dependencies]
-fluvio-future = "0.3"
+fluvio-future = "0.4"
 
 
 [[example]]
